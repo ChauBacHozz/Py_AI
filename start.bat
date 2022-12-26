@@ -1,1 +1,0 @@
-cd "c:\VS_workspace\Py-AI\" && gcc main.c -o main && "c:\VS_workspace\Py-AI\"main
